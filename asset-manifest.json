@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Oleksandrov1995/funbattery/static/css/main.6ea73aa1.css",
-    "main.js": "/Oleksandrov1995/funbattery/static/js/main.3c09be79.js",
+    "main.js": "/Oleksandrov1995/funbattery/static/js/main.b97a267d.js",
     "static/media/mainImage.jpg": "/Oleksandrov1995/funbattery/static/media/mainImage.ae26374a935d70a54e2b.jpg",
     "static/media/addLamp-img.jpg": "/Oleksandrov1995/funbattery/static/media/addLamp-img.eb561405473a8a2386ce.jpg",
     "static/media/prices1.png": "/Oleksandrov1995/funbattery/static/media/prices1.dd9604ca44d9c0a7bbdc.png",
     "static/media/discount.png": "/Oleksandrov1995/funbattery/static/media/discount.d9b91fe483f65f1fe02b.png",
     "index.html": "/Oleksandrov1995/funbattery/index.html",
     "main.6ea73aa1.css.map": "/Oleksandrov1995/funbattery/static/css/main.6ea73aa1.css.map",
-    "main.3c09be79.js.map": "/Oleksandrov1995/funbattery/static/js/main.3c09be79.js.map"
+    "main.b97a267d.js.map": "/Oleksandrov1995/funbattery/static/js/main.b97a267d.js.map"
   },
   "entrypoints": [
     "static/css/main.6ea73aa1.css",
-    "static/js/main.3c09be79.js"
+    "static/js/main.b97a267d.js"
   ]
 }
