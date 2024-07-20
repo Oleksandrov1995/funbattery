@@ -1,16 +1,17 @@
+import './App.css';
+import { Route, Routes } from 'react-router-dom';
+import { MainPage } from 'pages/MainPage/MainPage';
+import { AgreementPage } from 'pages/AgreementPage/AgreementPage';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <div className="container">
+        <Routes>
+          <Route path="/" element={<MainPage />} />
+          <Route path="/agreement" element={<AgreementPage />} />
+        </Routes>
+      </div>
+    </>
   );
 };
