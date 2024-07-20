@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="oleksandrov1995.github.io/funbattery/">
+    <BrowserRouter basename="/funbattery/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
